@@ -1,1 +1,1 @@
-echo "git branch test"
+echo "local branch test"
